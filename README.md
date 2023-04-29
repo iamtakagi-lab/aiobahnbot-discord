@@ -4,7 +4,7 @@
 
 ### Installation
 ```
-git clone git@github.com:iamtakagi/inubot-discord.git
+git clone git@github.com:iamtakagi/aiobahnbot-discord.git
 cp .env.sample .env
 cd docker
 docker-compose up -d
