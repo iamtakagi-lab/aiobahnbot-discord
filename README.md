@@ -1,4 +1,4 @@
-# inubot-discord
+# aiobahnbot-discord
 
 ## Getting Started
 
